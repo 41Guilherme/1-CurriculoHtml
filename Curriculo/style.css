@@ -1,0 +1,60 @@
+
+html{
+    background-color:black;
+    text-align: left;
+    color: white;
+}
+header{
+    background-color:brown;
+    border: black 1px;
+    margin: 1%;
+    border-style: dashed;
+    text-align: center;
+    
+
+}
+h1{
+    background-color: black;
+    color:white;
+}
+
+.Perfil{
+    text-align: left
+    ;
+    
+    border:10% black dotted;
+    margin: auto;
+    
+    
+}
+img{
+    border-radius: 100%;
+    border: dotted black 10%;
+}
+
+.Resumo{
+    
+    border:10% black dotted;
+    margin: auto;
+    
+}
+
+.Formação{
+    
+    
+    border:10% black dotted;
+    margin: auto;
+}
+
+.Experiência{
+    text-align: left;
+    
+    border:10% black dotted;
+    margin: auto;
+}
+h3{
+    color: brown;
+}
+h2{
+    color: brown;
+}
