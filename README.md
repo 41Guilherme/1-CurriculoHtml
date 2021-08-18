@@ -1,2 +1,2 @@
-# 1-CurriculoHtml
+# CurriculoHtml
 Meu primeiro currículo usando HTML/CSS
