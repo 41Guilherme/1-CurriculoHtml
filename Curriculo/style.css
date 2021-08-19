@@ -19,7 +19,7 @@ h1{
 }
 
 .Perfil{
-    text-align: left
+    text-align: center
     ;
     
     border:10% black dotted;
@@ -28,6 +28,8 @@ h1{
     
 }
 img{
+    padding-left: 43%;
+    padding-right: 43%;
     border-radius: 100%;
     border: dotted black 10%;
 }
